@@ -25,6 +25,10 @@ TAR <- TAR[!duplicated(TAR), ]
 
 write.csv(TAR, file = "180722_TAR_SA.csv")
 
+
+### fi nyapa
+
+
 setwd("C:/Users/53637539K/Documents/R-SVEVV/Explotacions")
 
 rm(list=ls())
